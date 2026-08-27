@@ -1,0 +1,14 @@
+## En este archivo se muestra  la creacion de las respectivas ramas.
+
+# - Esta carpeta se subirá con el fin de realizar la creación de las respectivas ramas para el proyecto de integrador de nuevas tecnologias con el profesor Diego y empezaremos con la rama de Main.
+# - Tambien se creará la rama de develop donde se pondra todas las ramas de feature y donde estará el proyecto sin estár en produccion.
+# - Tambien se crearán futuras ramas como las rammas de Feature donde cada persona trabajara para implementar nuevas funcionalidades.
+# - Tambien habra una rama espcifica para los arreglos necesarios con prioridad llamada hotfixes.+
+
+def hola_mundo (funcion):
+    funcion("Hola mundo")
+hola_mundo(print)
+
+print("Hola mundo diferente a la funcion hola_mundo")
+
+
