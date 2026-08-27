@@ -7,6 +7,8 @@
 
 def hola_mundo (funcion):
     funcion("Hola mundo")
-
 hola_mundo(print)
+
+print("Hola mundo diferente a la funcion hola_mundo")
+
 
